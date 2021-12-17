@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there! 👋 Welcome on board 🙂
 
+### 👨‍💻 My name is David Karanja. An Electrical and Electronics Engineer / Data Scientist 👨‍🔬 from Nairobi :kenya:
+### 🔭 I’m currently working on analytics projects on SQL & R programming language.
+### 🌱 I’m currently learning python 🐍 language and machine learning.
+### 👯 I’m looking to collaborate on 🚀 data projects.
+### 📧 You can reach me on karanjad61@gmail.com or on twitter @karanjadavid_M.
+### ⚡ Fun fact: LIMIT IS A STATE OF THE MIND!
 <!--
 **karanjadavid/karanjadavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
