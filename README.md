@@ -1,6 +1,6 @@
 ### Hi there! 👋 Welcome on board 🙂
 
- 👨‍💻 My name is David Karanja. An Electrical and Electronics Engineer / Data Scientist 👨‍🔬 from Nairobi :kenya:
+ 👨‍💻 My name is David Karanja. A Data Analyst / Data Scientist 👨‍🔬 from Nairobi :kenya:
  
  🔭 Working on analytics projects using SQL & R programming language.
  
