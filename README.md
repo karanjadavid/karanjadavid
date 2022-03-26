@@ -11,9 +11,7 @@
  ⚡ Fun fact: LIMIT IS A STATE OF THE MIND!
  
  
- ![Github Stats](https://github-readme-stats.vercel.app/api?username=karanjadavid&count_private=true&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KARANJADAVID&show_icons=true&theme=radical)
+ ![Github Stats](https://github-readme-stats.vercel.app/api?username=karanjadavid&count_private=true&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KARANJADAVID&show_icons=true&theme=none)
 
  
 <!--
