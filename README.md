@@ -4,7 +4,7 @@
  
  🔭 Working on analytics projects using SQL & R programming language.
  
- 🌱 I’m currently learning python 🐍 and machine learning. 👯 Iooking to collaborate on 🚀 data projects
+ 🌱 I’m currently learning python. 🐍 👯 Iooking to collaborate on 🚀 data projects
  
  📧 You can reach me on karanjad61@gmail.com or on twitter @karanjadavid_M.
  
