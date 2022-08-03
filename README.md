@@ -2,7 +2,7 @@
 
  👨‍💻 My name is David Karanja. A Data Analyst / Data Scientist 👨‍🔬 from Nairobi :kenya:
  
- 🔭 Working on analytics projects using SQL Python & R programming language.
+ 🔭 Working on analytics projects using SQL, Python & R programming language.
  
  🌱 I’m currently learning machine learning. 🐍 👯 Iooking to collaborate on 🚀 data projects
  
