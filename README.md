@@ -1,10 +1,10 @@
 ### Hi there! 👋 Welcome on board 🙂
 
- 👨‍💻 My name is David Karanja. A Data Analyst / Data Scientist 👨‍🔬 from Nairobi :kenya:
+ 👨‍💻 My name is David Mwangi. A Data Analyst / Data Scientist 👨‍🔬 from Nairobi :kenya:
  
  🔭 Working on analytics projects using SQL, Python & R programming language.
  
- 🌱 I’m currently learning machine learning. 🐍 👯 Iooking to collaborate on 🚀 data projects
+ 🌱 I’m currently learning machine learning & Microsoft Azure. 👯 Iooking to collaborate on 🚀 data projects
  
  📧 You can reach me on karanjad61@gmail.com or on twitter @karanjadavid_M.
  
